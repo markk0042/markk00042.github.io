@@ -1,0 +1,207 @@
+
+/*images-----*/
+body{
+
+
+
+    background: url("../css/assets/gym/gym.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+   
+/*-----CALLOUT REGION---*/
+
+.navbar-text{
+
+    color: rgb(165, 161, 161)
+}
+.jumbotron{
+
+background: #444;
+margin-bottom: 310px;
+opacity: 0.9;
+}
+
+.jumbotron h1 {
+    color: rgb(241, 238, 238);
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+    font-family: 'Carter One', cursive, sans-serif;
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+    margin: 25px 0;
+
+}
+
+.block-divider--GREY{
+       color: #ee3211;
+
+
+}
+    .block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #ee3211;
+    }
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #ee3211;
+    border-color: #fff;
+    color: #fff;
+    
+}
+
+    /*-----GYM facilities section---*/
+ 
+
+.page-header {
+    text-align: center;
+    color: #ee3211;
+    font-family: 'Permanent Marker', cursive, sans-serif;
+}
+
+
+.bottom{
+
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 5px;
+}
+
+.text-card {
+
+    font-family: "Roboto",sans-serif;
+
+}
+
+
+/*----FOOTER---*/
+
+.follow-us{
+    color: #fff;
+    font-size: 20x;
+}
+
+
+.page-footer {
+    background-color: #444;
+}
+
+.fb-ic{
+    color:#0b68e2;
+    font-size: 25px;
+}
+
+.tw-ic {
+font-size: 25px;
+color:#0bc2e2;
+}
+
+.li-ic {
+font-size: 25px;
+color:#0be27e;
+
+}
+
+.ins-ic{
+font-size: 25px;
+color:#e26c0b;
+    
+}
+
+.fb-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+
+}
+
+.tw-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
+
+.li-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
+
+
+.ins-ic:hover {
+transition: 1.5s;
+color: #ee3211;
+
+}
+
+
+footer{
+
+    margin-top: 10px;
+}
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+
+}
+
+#photo img {
+    width: 100%;
+
+}
+
+
+.footer-link{
+
+    color: #fff;
+    font-size: 15x;
+}
+
+.footer-contact{
+
+    color: #fff;
+    font-size: 15x;
+
+
+}
+
+
+.about-us {
+   
+    font-size: 15x;
+
+
+}
+
+.about-us-text{
+
+    color: #fff;
+    font-size: 15x;
+    font-family: sans-serif;
+}
+
+.details{
+
+    color: #fff;
+    font-size: 15x;
+    font-family: sans-serif;
+}
